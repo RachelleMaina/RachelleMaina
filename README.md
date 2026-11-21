@@ -1,16 +1,114 @@
-## Hi there 👋
+# Rachel Maina
+### Senior Software Engineer | AI Engineer
 
-<!--
-**RachelleMaina/RachelleMaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+Software Engineer with **9+ years of experience** designing, building, and delivering production software across frontend, backend, and AI engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience spans web and mobile application development, backend systems, enterprise software, and intelligent applications. I enjoy working across the entire software development lifecycle, from system architecture and engineering to building intuitive user experiences.
+
+Currently, I am researching, designing, and building **production-grade AI systems**, exploring how LLMs, intelligent workflows, retrieval architectures, and agentic systems can solve complex real-world problems.
+
+---
+
+## 🧩 Engineering Focus
+
+### 🎨 Frontend Engineering
+- Building high-performance web applications and responsive user interfaces.
+- Developing complex dashboards and enterprise applications.
+- Cross-platform mobile application development.
+- Frontend architecture, state management, and API integration.
+
+### ⚙️ Backend & Systems Engineering
+- Backend services and RESTful API development.
+- System architecture and data modeling.
+- Database design and optimization.
+- Enterprise integrations and multi-tenant applications.
+
+### 🤖 AI Engineering
+- Researching and building production-grade AI systems.
+- LLM-powered applications and intelligent workflows.
+- Agentic systems and workflow orchestration.
+- Retrieval-augmented generation (RAG).
+- Embeddings, vector search, and hybrid retrieval.
+- LLM application evaluation and reliability.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**AI Engineering**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Testing & Infrastructure**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+| Role | Organization |
+|---|---|
+| Founding Engineer / Senior Software Engineer | Inventaire |
+| AI Applications Lead | Kwanza Tukule Foods |
+| Lead Frontend Engineer | Leta |
+| Frontend Engineer | Sky.Garden |
+| Full Stack Software Engineer | Andela |
+| Technical Specialist | National Museums of Kenya |
+
+---
+
+## 🎓 Education & Professional Training
+
+- **BSc. Information Science (IT)** | Maasai Mara University, Upper Second Class Honours
+- **Software Engineering Fellowship** | Andela
+- **AI Engineering** | Udemy / 365 Careers
+
+---
+
+## 📫 Connect With Me
+
+I'm always interested in connecting with engineers, researchers, and people building interesting technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-maina/)
+
+📍 Nairobi, Kenya
