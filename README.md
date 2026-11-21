@@ -22,20 +22,10 @@ Currently, I am researching, designing, and building **production-grade AI syste
 Over the years, I've contributed to and delivered a wide range of software projects across different industries, teams, and technologies. The projects listed below are a selection of work I'm permitted to share publicly. They represent only a portion of the applications and systems I've worked on professionally.
 
 - **Mega News** · [Live Demo](https://mega-news-iota.vercel.app) · [Source Code](https://github.com/RachelleMaina/mega-news)
-- **Alpha Meat Supplies** · [Live Demo](https://alpha-meat-supplies.vercel.app) · [Source Code](https://github.com/RachelleMaina/alpha-meat-supplies)
-- **Shamiri Supervisor Copilot** · [Live Demo](https://shamiri-supervisor-copilot-kohl.vercel.app) · [Source Code](https://github.com/RachelleMaina/shamiri-supervisor-copilot)
-- **Skills Management** · [Source Code](https://github.com/RachelleMaina/skils-management)
 - **Talent** · [Live Demo](https://talent-kappa.vercel.app) · [Source Code](https://github.com/RachelleMaina/talent)
-- **Sky.Garden Test**  [Source Code](https://github.com/RachelleMaina/sky_garden_test)
 - **LegalLeaf** · [Live Demo](https://rachellemaina.github.io/legalleaf/) · [Source Code](https://github.com/RachelleMaina/legalleaf)
+- **Shamiri Supervisor Copilot** · [Live Demo](https://shamiri-supervisor-copilot-kohl.vercel.app) · [Source Code](https://github.com/RachelleMaina/shamiri-supervisor-copilot)
 - **Chuck Norris Jokes** · [Live Demo](https://rachellemaina.github.io/chucknorrisjokes/) · [Source Code](https://github.com/RachelleMaina/chucknorrisjokes)
-- **SendIT UI** · [Live Demo](https://rachellemaina.github.io/SendIT-UI/index.html) · [Source Code](https://github.com/RachelleMaina/SendIT-UI)
-- **Fantastic Meme** · [Source Code](https://github.com/RachelleMaina/fantastic-meme)
-- **Note App** · [Live Demo](https://rachellemaina.github.io/note-app/) · [Source Code](https://github.com/RachelleMaina/note-app)
-- **Sylphrena: A Diary** · [Source Code](https://github.com/RachelleMaina/Sylphrena-a-diary) · [Backend](https://github.com/RachelleMaina/diary)
-- **Tracks** · [Source Code](https://github.com/RachelleMaina/tracks)
-- **SendIT Courier Services** · [Source Code](https://github.com/RachelleMaina/SendIT-CH4)
-
 
 ---
 
